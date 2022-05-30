@@ -1,0 +1,30 @@
+  {
+    "sahip" : "",
+    "prefix" : ".",
+    "footer" : "Thetomentosadev",
+    "botdurum" : "Thetomentosadev | Register",
+
+    "tag" : "",
+    "etikettag" : "",
+    "sembol" : "'",
+  
+    "yetkiliRol" : ["", "", ""],
+    "vipRol" : "",
+    "boosterRol" : "",
+    "kayıtsızRol" : "",
+    "erkekRol1" : "",
+    "erkekRol2" : "",
+    "kadınRol1" : "",
+    "kadınRol2" : "",
+
+    "tagRol" : "",
+    "tagLog" : "",
+
+    "SunucuID" : "",
+    "hosgeldinKanal" : "",
+    "sohbetKanal" : "",
+    "botSesKanal" : "",
+  
+    "yes" : "✅",
+    "no" : "❎"
+}
